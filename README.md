@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+WarsawViewTool::Renderer.copyright 'Fred Warsaw', 'All rights reserved'
 
 ## Development
 
