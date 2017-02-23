@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 WarsawViewTool::Renderer.copyright 'Fred Warsaw', 'All rights reserved'
+```
 
 ## Development
 
